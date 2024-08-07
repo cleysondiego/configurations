@@ -1,0 +1,21 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "workbench.statusBar.visible": false,
+    "workbench.editor.labelFormat": "short",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.semanticHighlighting.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "terminal.integrated.fontFamily": "JetBrains Mono Nerd Font",
+    "terminal.integrated.fontSize": 14,
+    "symbols.hidesExplorerArrows": false,
+    "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false,
+    "window.commandCenter": false
+}
