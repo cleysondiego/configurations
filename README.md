@@ -3,6 +3,7 @@
 ## Ambiente
 
 - MacBook Pro - 16-inch, 2019
+- Ubuntu 24.04 LTS
 - Aplicativo Terminal nativo do MAC
 - ZSH como shell padrão
 
@@ -17,6 +18,12 @@ Para que as configurações funcionem corretamente, é necessário instalar:
 - [Spaceship](https://github.com/spaceship-prompt/spaceship-prompt)
 
 Para consulta, utilizar [este guia](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/) feito pela Rocketseat.
+
+## Fonte
+
+Página [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
+
+Apenas baixar e instalar no sistema operacional.
 
 ## VSCode
 
